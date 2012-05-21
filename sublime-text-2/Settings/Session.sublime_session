@@ -1,0 +1,496 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"belongs_to"
+					],
+					[
+						"stu",
+						"student_group_courses"
+					],
+					[
+						"teacher",
+						"teachers_room"
+					],
+					[
+						"tea",
+						"teachers_room"
+					],
+					[
+						"name",
+						"namespace"
+					],
+					[
+						"Re",
+						"registration"
+					],
+					[
+						"assign",
+						"assigned_user_courses"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "edu/app/views/teachers/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 340,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "edu/app/views/teachers/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 319,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "edu/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 3032,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/asdsee/projects/edu/app/models/user.rb",
+				"/home/asdsee/projects/edu/Gemfile",
+				"/home/asdsee/projects/edu/app/models/teacher.rb",
+				"/home/asdsee/projects/edu/db/migrate/20120513133333_create_student_groups.rb",
+				"/home/asdsee/projects/edu/app/models/student_group.rb",
+				"/home/asdsee/projects/edu/app/models/course.rb",
+				"/home/asdsee/projects/edu/app/models/student_group_course.rb",
+				"/home/asdsee/projects/edu/app/views/layouts/application.html.erb",
+				"/home/asdsee/projects/edu/app/models/user_course.rb",
+				"/home/asdsee/projects/edu/app/controllers/teachers_controller.rb",
+				"/home/asdsee/projects/edu/app/views/teachers/index.html.erb",
+				"/home/asdsee/projects/edu/app/views/teachers/show.html.erb",
+				"/home/asdsee/projects/edu/config/routes.rb",
+				"/home/asdsee/projects/edu/app/controllers/students_controller.rb",
+				"/home/asdsee/projects/edu/app/views/students/index.html.erb",
+				"/home/asdsee/projects/edu/app/views/students/show.html.erb",
+				"/home/asdsee/projects/edu/app/controllers/user_courses_controller.rb",
+				"/home/asdsee/projects/edu/db/seeds.rb",
+				"/home/asdsee/projects/edu/app/views/teachers/students.html.erb",
+				"/home/asdsee/projects/edu/config/navigation.rb",
+				"/home/asdsee/projects/edu/db/migrate/20120509073302_add_user_id_to_user_courses.rb",
+				"/home/asdsee/projects/edu/app/controllers/statistics_controller.rb",
+				"/home/asdsee/projects/edu/app/controllers/documents_controller.rb",
+				"/home/asdsee/projects/edu/app/views/documents/show.html.erb",
+				"/home/asdsee/projects/edu/app/views/documents/_document.html.erb",
+				"/home/asdsee/projects/edu/config/initializers/rails_admin.rb",
+				"/home/asdsee/projects/edu/app/models/ability.rb",
+				"/home/asdsee/projects/edu/app/views/videos/edit.html.erb",
+				"/home/asdsee/projects/edu/app/views/videos/show.html.erb",
+				"/home/asdsee/projects/edu/config/application.rb",
+				"/home/asdsee/projects/edu/app/views/videos/_sidebar.html.erb",
+				"/home/asdsee/projects/edu/app/views/videos/new.html.erb",
+				"/home/asdsee/projects/edu/app/views/videos/index.html.erb",
+				"/home/asdsee/projects/edu/app/controllers/lessons_controller.rb",
+				"/home/asdsee/projects/edu/app/assets/javascripts/application.js",
+				"/home/asdsee/projects/edu/app/views/statistics/index.html.erb",
+				"/home/asdsee/projects/edu/app/views/statistics/passed.html.erb",
+				"/home/asdsee/projects/edu/app/controllers/courses_controller.rb",
+				"/home/asdsee/projects/edu/app/controllers/testings_controller.rb",
+				"/home/asdsee/projects/edu/app/controllers/home_controller.rb",
+				"/home/asdsee/projects/edu/surveys/quiz.rb",
+				"/home/asdsee/projects/edu/db/schema.rb",
+				"/home/asdsee/projects/edu/app/models/question.rb",
+				"/home/asdsee/projects/edu/db/migrate/20120304105628_remove_test_id_from_questions.rb",
+				"/home/asdsee/projects/edu/db/migrate/20120304105130_create_questions.rb",
+				"/home/asdsee/projects/pi-system/app/views/user_organizations/_header.html.erb",
+				"/home/asdsee/projects/pi-system/app/assets/javascripts/user_organizations.js.coffee",
+				"/home/asdsee/projects/pi-system/app/views/organization_requests/_filter.html.slim",
+				"/home/asdsee/projects/pi-system/app/views/admin/payments/index.html.erb",
+				"/home/asdsee/projects/pi-system/app/controllers/organization_requests_controller.rb",
+				"/home/asdsee/projects/pi-system/app/views/organization_requests/_table.html.slim",
+				"/home/asdsee/projects/pi-system/app/models/user_organization.rb",
+				"/home/asdsee/projects/pi-system/app/assets/javascripts/admin_user.js.coffee",
+				"/home/asdsee/projects/pi-system/app/assets/javascripts/admin_place_sets.js.coffee",
+				"/home/asdsee/projects/pi-system/app/views/organization_requests/index.html.slim",
+				"/home/asdsee/projects/pi-system/app/views/admin/place_sets/edit.html.slim",
+				"/home/asdsee/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/asdsee/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Teacher",
+					"Study room",
+					"docume",
+					"Document",
+					"tests",
+					"name",
+					"question_group",
+					"question_gro",
+					"group",
+					"formta",
+					"form",
+					"search_form_for",
+					"includes",
+					"current_",
+					"bank",
+					"ko.",
+					"data-bind"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "edu/app/views/teachers/index.html.erb",
+							"settings":
+							{
+								"buffer_size": 340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										338,
+										338
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "edu/app/views/teachers/show.html.erb",
+							"settings":
+							{
+								"buffer_size": 319,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										317,
+										317
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "edu/config/routes.rb",
+							"settings":
+							{
+								"buffer_size": 3032,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										317,
+										317
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"studengrocour",
+						"app/models/student_group_course.rb"
+					],
+					[
+						"course",
+						"app/models/course.rb"
+					],
+					[
+						"teacrb",
+						"app/models/teacher.rb"
+					],
+					[
+						"student",
+						"app/models/student_group.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"teache",
+						"app/models/teacher.rb"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"teacher",
+						"app/models/teacher.rb"
+					],
+					[
+						"usercourse",
+						"app/models/user_course.rb"
+					],
+					[
+						"usercourrb",
+						"app/models/user_course.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					],
+					[
+						"statistico",
+						"app/controllers/statistics_controller.rb"
+					],
+					[
+						"lessco",
+						"app/controllers/lessons_controller.rb"
+					],
+					[
+						"applihtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"docucontr",
+						"app/controllers/documents_controller.rb"
+					],
+					[
+						"initiali",
+						"config/initializers/rails_admin.rb"
+					],
+					[
+						"ability",
+						"app/models/ability.rb"
+					],
+					[
+						"gemfil",
+						"Gemfile"
+					],
+					[
+						"testingsc",
+						"app/controllers/testings_controller.rb"
+					],
+					[
+						"lesscon",
+						"app/controllers/lessons_controller.rb"
+					],
+					[
+						"courcontr",
+						"app/controllers/courses_controller.rb"
+					],
+					[
+						"cou",
+						"app/models/course.rb"
+					],
+					[
+						"statis",
+						"app/controllers/statistics_controller.rb"
+					],
+					[
+						"coursecontro",
+						"app/controllers/courses_controller.rb"
+					],
+					[
+						"questi",
+						"app/models/question.rb"
+					],
+					[
+						"createques",
+						"db/migrate/20120304105130_create_questions.rb"
+					],
+					[
+						"userorga",
+						"app/models/user_organization.rb"
+					],
+					[
+						"userorgani",
+						"app/models/user_organization.rb"
+					],
+					[
+						"adminplacese",
+						"app/assets/javascripts/admin_place_sets.js.coffee"
+					],
+					[
+						"userorgacoff",
+						"app/assets/javascripts/user_organizations.js.coffee"
+					],
+					[
+						"placesetcof",
+						"app/assets/javascripts/admin_place_sets.js.coffee"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 423.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": "/home/asdsee/projects/diplom.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/asdsee/projects/diplom.sublime-project"
+		]
+	}
+}
